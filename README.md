@@ -13,4 +13,8 @@ Repositório relacionado a formação de Power BI Analyst
 - Uso Personalizações avançadas, como ações personalizadas nos botões.
 
 
+![Capturar](https://github.com/LabDevOps09/power_bi_analyst/assets/166772912/e1d167aa-f550-4b34-8b2f-40360e9e0be4)
+![Capturar1](https://github.com/LabDevOps09/power_bi_analyst/assets/166772912/c35586a4-17d8-4f47-a1ce-8a2ce3384ccd)
+
+
 
