@@ -74,14 +74,17 @@ DateTable = CALENDAR(MIN(FatoProfessor[DataInicio]), MAX(FatoProfessor[DataFim])
 TotalHorasMinistradas = SUM(FatoProfessor[HorasMinistradas])
 NumeroAlunos = SUM(FatoProfessor[NumeroAlunos])```
 
-# Desafio de Power BI - Dashboard Gerencial
-
-![Capturar](https://github.com/LabDevOps09/power_bi_analyst/assets/166772912/14092ac4-6ac3-4310-bcba-76a6cad615db)
 
 
-![Capturar1](https://github.com/LabDevOps09/power_bi_analyst/assets/166772912/97a4d6e6-0e57-49ac-a3e5-2e2cab8ce2cc)
 
-![Capturar2](https://github.com/LabDevOps09/power_bi_analyst/assets/166772912/b25359e1-dabb-4b2e-b2be-e7d08f8c30e4)
+
+
+
+
+
+
+
+
 
 
 
